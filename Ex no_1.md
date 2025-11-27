@@ -1,4 +1,4 @@
-# EX 1 A program to initialize the value as 5.8 & display the same.
+# EX 1 C program to initialize the value as 5.8 & display the same.
 
 ## DATE:
 
